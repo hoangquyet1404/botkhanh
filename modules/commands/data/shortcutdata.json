@@ -1,0 +1,229 @@
+[
+    {
+        "threadID": "7521002927997636",
+        "shortcuts": [
+            {
+                "input_type": "autosend",
+                "output": "Con mẹ mày",
+                "hours": "04:00:00",
+                "uri": "https://files.catbox.moe/9timqk.jpg"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào bọn ngu",
+                "hours": "05:10:00",
+                "uri": "https://files.catbox.moe/xnc1dq.mp4"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Con mẹ mày",
+                "hours": "18:13:00",
+                "uri": "random"
+            },
+            {
+                "output": "Tag mả bố m",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100085073240621"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào buổi nửa đêm",
+                "hours": "08:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào buổi đêm",
+                "hours": "22:41:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào buổi đêm",
+                "hours": "23:00:00",
+                "uri": "https://files.catbox.moe/f3tvr9.mp4"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Huheo",
+                "hours": "12:00:00",
+                "uri": "random"
+            }
+        ]
+    },
+    {
+        "threadID": "7692459930873038",
+        "shortcuts": [
+            {
+                "input": "🐉",
+                "output": "Cc",
+                "uri": "https://files.catbox.moe/x2cp7b.jpg"
+            },
+            {
+                "output": "Cc",
+                "uri": "https://files.catbox.moe/x2cp7b.jpg",
+                "input_type": "tag",
+                "tag_id": "100085073240621"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào buổi sáng",
+                "hours": "07:08:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào chúng mày",
+                "hours": "07:10:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào cu",
+                "hours": "07:11:00",
+                "uri": "https://files.catbox.moe/9timqk.jpg"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chào bố đi con",
+                "hours": "07:18:00",
+                "uri": "random"
+            },
+            {
+                "input": "0",
+                "output": "Xx",
+                "uri": "random"
+            },
+            {
+                "input_type": "join",
+                "output": "{name} chào mừng mày đã đến với nhà của các bố",
+                "uri": "random"
+            }
+        ]
+    },
+    {
+        "threadID": "23871396445839156",
+        "shortcuts": [
+            {
+                "input": "0",
+                "output": "Cc",
+                "uri": "random"
+            },
+            {
+                "input": "O",
+                "output": "Ss",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Ngủ mẹ đi",
+                "hours": "01:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "2h rồi ngủ mẹ di",
+                "hours": "02:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "2h rồi ngủ mẹ di",
+                "hours": "03:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "2h rồi ngủ mẹ di",
+                "hours": "04:00:00",
+                "uri": "https://files.catbox.moe/kntrok.mp4"
+            }
+        ]
+    },
+    {
+        "threadID": "25134307502880779",
+        "shortcuts": [
+            {
+                "output": "Tag concac",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100085073240621"
+            }
+        ]
+    },
+    {
+        "threadID": "7258760540829608",
+        "shortcuts": [
+            {
+                "input_type": "autosend",
+                "output": "Ngủ mẹ đi",
+                "hours": "13:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Ngủ mẹ đi",
+                "hours": "12:00:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Concac",
+                "hours": "11:15:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "join",
+                "output": "{name} chào mày đã đến với nhà của bố",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "12h rồi ngủ mẹ đi",
+                "hours": "12:00:00",
+                "uri": "random"
+            }
+        ]
+    },
+    {
+        "threadID": "25698987183021731",
+        "shortcuts": [
+            {
+                "output": "Tag đầu buồi",
+                "uri": "random",
+                "input_type": "tag",
+                "tag_id": "100085073240621"
+            }
+        ]
+    },
+    {
+        "threadID": "7857117211049998",
+        "shortcuts": [
+            {
+                "input_type": "autosend",
+                "output": "Chúc các bạn đjt nhau vui vẻ",
+                "hours": "22:30:00",
+                "uri": "random"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Chúc các bạn đụ nhau vui vẻ",
+                "hours": "22:35:00",
+                "uri": "https://files.catbox.moe/lmfuuz.jpg"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Lon",
+                "hours": "22:37:00",
+                "uri": "https://files.catbox.moe/f3tvr9.mp4"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Heohh",
+                "hours": "01:00:00",
+                "uri": "random"
+            }
+        ]
+    }
+]

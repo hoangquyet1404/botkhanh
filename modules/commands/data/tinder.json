@@ -1,0 +1,18 @@
+[
+    {
+        "senderID": "100085073240621",
+        "name": "Dang Gia Khanh",
+        "age": "19",
+        "gender": "Nam",
+        "hobbies": "Tiền",
+        "hometown": "Hòa bình"
+    },
+    {
+        "senderID": "100050795644215",
+        "name": "Huy",
+        "age": "2008",
+        "gender": "Nam",
+        "hobbies": "Thích nhiều vợ",
+        "hometown": "Cần thơ"
+    }
+]

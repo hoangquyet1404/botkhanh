@@ -1,0 +1,15 @@
+{
+  "status": true,
+  "schedule": [
+    "19:00:00",
+    "23:55:00",
+    "02:00:00",
+    "01:30:00",
+    "07:30:00",
+    "07:34:00",
+    "07:36:00",
+    "17:00:00"
+  ],
+  "blockID": [],
+  "urlAPI": "https://hoanghao.me/api/images/videogaixinh"
+}

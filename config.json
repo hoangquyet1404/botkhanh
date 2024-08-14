@@ -1,0 +1,149 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "FACEBOOK_ADMIN": "https://www.facebook.com/Danggiakhanh18t.vanhungcl?mibextid=ZbWKwL",
+    "ZALO_ADMIN": "0395883706",
+    "ACCESSTOKEN": "EAAD6V7os0gcBO5YjtkPbkWMI2oBIpAl1I8KHBRwerjOHWC8ILKXaJ8YCL0cRTyYCRpXJ2e2HC26UUrAiyEmcYOi9banBQu9shxPZBdgrT8V0xZBDbeTRc2YSBm1wcOScZCMKpO6MEQuiOmdb8TZBKFE70xCDR8Qs3txCP10vRr9dTQzowmEovou7NwZDZD",
+    "autoClean": true,
+    "AutoRestartMinutes": 240,
+    "RestartMQTT_Minutes": 60,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 1231526.035836716,
+    "configApi": {
+        "gk": "https://api.dungkon.id.vn/girl-video"
+    },
+    "DASHBOARD": false,
+    "commandDisabled": [
+        "",
+        "",
+        "",
+        "",
+        "autostk.js",
+        "untostk2.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100085073240621",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "100085073240621",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appPreventive.json",
+    "NPM_FCA": "fca-disme",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.15",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "anh": {
+        "cooldownTime": 1200000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "youtube": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "spadmPaseOnly": true,
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 1800000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "bot": {
+        "APIKEY": "LUVMIN"
+    },
+    "goibot": {
+        "APIKEY": "LUVMIN"
+    },
+    "kicktag": {
+        "kickTagDelay": 2
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c"
+    },
+    "adminPaseOnly": false
+}
